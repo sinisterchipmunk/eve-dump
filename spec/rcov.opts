@@ -1,0 +1,2 @@
+--exclude "spec/*,gems/*"
+--aggregate coverage.data
